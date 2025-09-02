@@ -5,8 +5,7 @@
 Sat4EC is a project by Destatis, the Federal Statistical Office of Germany, funded by Eurostat that aims to integrate earth observation data into official statistics.
 
 You can find further information about the project, its objectives and deliverables published via the EU Funding & Tender Portal: 
-[Project Details Sat4EC]
-](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43252476/101113054)
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43252476/101113054
 
 ## Quick Introduction
 In recent years, both the availability of and the demand for up-to-the-minute data have increased sharply. In order to be able to depict economic developments at an early stage, estimates are needed to ensure greater timeliness. To improve these estimates new statistical indicators based on new 
