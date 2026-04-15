@@ -1,3 +1,7 @@
+This repository is archived. You can find more information on the Sat4EC car production indicator here:
+https://github.com/NDD-Destatis/car-production-indicator?tab=readme-ov-file#what-is-sat4ec-
+
+
 <img align="right" src="https://user-images.githubusercontent.com/130641822/231975777-437f63f2-8e35-45ae-8f0c-3c7d7e69b778.jpg" width="30%" >
 
 ### The project 🛰
